@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ie.atu</groupId>
-    <artifactId>sample-service</artifactId>
+    <artifactId>room-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sample-service</name>
-    <description>sample-service</description>
+    <name>room-service</name>
+    <description>room-service</description>
     <url/>
     <licenses>
         <license/>
